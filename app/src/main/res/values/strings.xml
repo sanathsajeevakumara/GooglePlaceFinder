@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Google Place Finder</string>
+    <string name="title_activity_map">MapActivity</string>
+</resources>
